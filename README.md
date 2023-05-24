@@ -1,7 +1,7 @@
 # **Welcome to NexusByte Innovations 👋**
 We are a cutting-edge technology company specializing in web development and software solutions. Our passion is empowering businesses with innovative digital experiences and transformative software solutions.
 
-## ** What interests us? 👀**
+## **What interests us? 👀**
 We are passionate about web development and software solutions. We love exploring new technologies and staying up-to-date with the latest trends in the digital world. We thrive on working on challenging projects that drive the growth and success of our clients.
 
 ## **Looking to collaborate? 💞️**
