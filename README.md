@@ -1,4 +1,4 @@
-# **Welcome to NexusByte Innovations 👋**
+<h1>Welcome to NexusByte Innovations 👋</h1>
 We are a cutting-edge technology company specializing in web development and software solutions. Our passion is empowering businesses with innovative digital experiences and transformative software solutions.
 
 ## What interests us? 👀
